@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  padding: 14px;
+  display: flex;
+  align-items: space-around;
+  gap: 50px;
+}
